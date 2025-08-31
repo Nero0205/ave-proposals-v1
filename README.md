@@ -7,7 +7,7 @@ The tooling documentation is co-located with the relevant smart contracts.
         
 ## Tooling     
 
-### Config engine
+### Config engine     
 
 The AaveV3ConfigEngine ([Docs](https://github.com/bgd-labs/aave-helpers/tree/master/src/v3-config-engine#how-to-use-the-engine)) is a helper smart contract to abstract good practices when doing "admin" interactions with the Aave v3 protocol, but built on top, without touching the core contracts.
 
