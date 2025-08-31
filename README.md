@@ -4,7 +4,7 @@ This repository contains various proposals targeting the Aave governance.
 this is really important
 In addition to the actual proposals this repository also contains tooling to standardize certain protocol tasks.
 The tooling documentation is co-located with the relevant smart contracts.
-
+        
 ## Tooling
 
 ### Config engine
