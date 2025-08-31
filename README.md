@@ -5,7 +5,7 @@ this is really important
 In addition to the actual proposals this repository also contains tooling to standardize certain protocol tasks.
 The tooling documentation is co-located with the relevant smart contracts.
         
-## Tooling
+## Tooling     
 
 ### Config engine
 
